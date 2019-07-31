@@ -1,4 +1,4 @@
-# app-2
+# calculator-mac
 
 ## Project setup
 ```
